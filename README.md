@@ -29,3 +29,7 @@ The program displays the encrypted message and decrypts it back to the original 
 
 <p> Enter the private key (d) for decryption: 23 </p>
 <p> Original Message Sent: "HELLO" </p>
+
+## Contributor 
+
+<p> Lawrence Menegus </p>
